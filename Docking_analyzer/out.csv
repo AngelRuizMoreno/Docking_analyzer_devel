@@ -1,0 +1,5 @@
+,User_Entry,SMILES
+0,103-90-2,CC(=O)Nc1ccc(O)cc1
+1,HTQQVOYPSGNVPA-HBRCYENSSA-M,"[K+].CN(C)CCCN1c2ccccc2Sc3ccc(Cl)cc13.CC4(C)S[C@@H]5[C@H](NC(=O)Cc6ccccc6)C(=O)N5[C@H]4C([O-])=O
+CN(C)CCCN1c2ccccc2Sc3ccc(Cl)cc13.CC4(C)S[C@@H]5[C@H](NC(=O)Cc6ccccc6)C(=O)N5[C@H]4C(=O)O[K]"
+2,CC(=O)Nc1ccc(O)cc1,CC(=O)Nc1ccc(O)cc1
